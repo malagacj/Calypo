@@ -1,0 +1,122 @@
+<div>
+  <canvas id="myChart"></canvas>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+  const ctx = document.getElementById('myChart');
+  const data = {
+      "labels": [
+          "20641/2T/22",
+          "20641/3T/22",
+          "20641/4T/22",
+          "20641/1T/23",
+          "20641/2T/23",
+          "20641/3T/23",
+          "20641/4T/23",
+          "20641/1T/24",
+          "20641/2T/24"
+      ],
+      "datasets": [
+          {
+              "label": "Primer Tramo",
+              "fill": false,
+              "borderColor": "#292f36",
+              "tension": 0.1,
+              "data": [
+                  "0.8",
+                  "0.88",
+                  "0.88",
+                  "0.88",
+                  "0.88",
+                  "0.88",
+                  "0.88",
+                  "0.88",
+                  "0.91"
+              ]
+          },
+          {
+              "label": "Segundo Tramo",
+              "fill": false,
+              "borderColor": "#ffb000",
+              "tension": 0.1,
+              "data": [
+                  "1.16",
+                  "1.28",
+                  "1.28",
+                  "1.28",
+                  "1.28",
+                  "1.28",
+                  "1.28",
+                  "1.28",
+                  "1.32"
+              ]
+          },
+          {
+              "label": "Tercer Tramo",
+              "fill": false,
+              "borderColor": "#2bb6a8",
+              "tension": 0.1,
+              "data": [
+                  "",
+                  "2.8",
+                  "2.8",
+                  "2.8",
+                  "2.8",
+                  "2.8",
+                  "2.8",
+                  "2.8",
+                  "2.89"
+              ]
+          },
+          {
+              "label": "Gesti\u00f3n",
+              "fill": false,
+              "borderColor": "#648de5",
+              "tension": 0.1,
+              "data": [
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.03",
+                  "1.06"
+              ]
+          },
+          {
+              "label": "Aducci\u00f3n y Distribuci\u00f3n",
+              "fill": false,
+              "borderColor": "#dbcbd8",
+              "tension": 0.1,
+              "data": [
+                  "15.56",
+                  "15.56",
+                  "15.56",
+                  "15.56",
+                  "15.56",
+                  "15.56",
+                  "16.56",
+                  "34.84",
+                  "35.92"
+              ]
+          }
+      ]
+  }
+
+  new Chart(ctx, {
+    type: 'line',
+    data: data,
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+
