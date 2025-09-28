@@ -125,3 +125,6 @@ Lo que podéis hacer:
 3. 1. Crear un correo nuevo en Gmail, Outlook o ProtonMail.
 2. No pongáis datos personales al registrar la cuenta (nombre falso, fecha inventada).
 3. Usadlo solo para este tipo de comunicaciones.
+
+## Enlaces de interés
+1. [Solicitud de acceso a la información pública](https://www.jccm.es/sede/tramite/KK0)
