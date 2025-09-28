@@ -78,7 +78,7 @@ Si no contestan o te deniegan sin justificar, puedes reclamar al Consejo de Tran
 👉 Lo más fácil es que los vecinos que tengan certificado digital o Cl@ve lo hagan online (tarda 10 minutos). Los que no, que impriman el modelo y lo lleven al Ayuntamiento o a Correos.
 
 
-## Comunicación anónima conforme a la Ley 2/2023
+## 3. Comunicación anónima conforme a la Ley 2/2023
 ```
 A la atención de:
 Responsable del Sistema Interno de Información
@@ -122,5 +122,6 @@ En copia (CC) podéis poner alcaldia@aytocasarrubios.es para que quede constanci
 Como puede ser anónimo, no uséis el correo personal de nadie.
 
 Lo que podéis hacer:
-1. Crear un correo nuevo en Gmail, Outlook o ProtonMail.
-2. No pongáis datos personales al registrar la cuent…
+3. 1. Crear un correo nuevo en Gmail, Outlook o ProtonMail.
+2. No pongáis datos personales al registrar la cuenta (nombre falso, fecha inventada).
+3. Usadlo solo para este tipo de comunicaciones.
