@@ -9,7 +9,7 @@
 1. Forma de pago clara
 
 
-# Froylan:
+## Froylan:
 1. Cual sería la base para obligar a Urbanizaciones V a retirar las tuberías de amianto en la urbanización
 1. Existe algún caso que conozca de Urbanización que haya ganado un juicio por consumir agua abastecida por tuberías de Amianto? Es decir ha sido la base del caso que las tuberías sean de Amianto?
 1. Si se hubiese conseguido lo anterior por otros motivos, cuales serían estos motivos?
