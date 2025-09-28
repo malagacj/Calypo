@@ -1,6 +1,6 @@
 # Solicitud individual de acceso a información pública
 
-## Modelo de escrito para portal de transparencia de Castilla La Mancha
+## 1. Modelo de escrito para portal de transparencia de Castilla La Mancha
 ```
 A la atención de:
 Órgano competente en materia de transparencia
@@ -46,7 +46,7 @@ En [localidad], a [fecha].
 [Nombre y apellidos]
 ```
 
-## Cómo presentar la solicitud de información en Castilla-La Mancha
+## 2. Cómo presentar la solicitud de información en Castilla-La Mancha
 ### Opción 1: Con certificado digital o Cl@ve
 Es la más directa si tienes certificado FNMT, DNI electrónico o usuario Cl@ve.
 
@@ -71,8 +71,56 @@ Si no tienes certificado ni Cl@ve, también se puede hacer:
 En este caso, pide siempre resguardo sellado o justificante de que se ha registrado.
 
 
-## Qué pasa después
+### Qué pasa después
 La administración tiene un mes para contestar.
 Puede prorrogarse otro mes más si la solicitud es complicada, pero deben avisarte.
 Si no contestan o te deniegan sin justificar, puedes reclamar al Consejo de Transparencia y Buen Gobierno.
 👉 Lo más fácil es que los vecinos que tengan certificado digital o Cl@ve lo hagan online (tarda 10 minutos). Los que no, que impriman el modelo y lo lleven al Ayuntamiento o a Correos.
+
+
+## Comunicación anónima conforme a la Ley 2/2023
+```
+A la atención de:
+Responsable del Sistema Interno de Información
+Ayuntamiento de Casarrubios del Monte
+
+Asunto: Comunicación anónima de irregularidades y solicitud de habilitación de canal interno de información
+---
+
+Se comunica lo siguiente:
+
+De conformidad con la Ley 2/2023, de 20 de febrero, reguladora de la protección de las personas que informen sobre infracciones normativas y de lucha contra la corrupción, este Ayuntamiento está obligado a disponer de un canal interno de información que permita comunicar irregularidades de manera segura, confidencial y anónima (artículo 5).
+En la actualidad, dicho canal no está disponible, lo que constituye un incumplimiento directo de la Ley.
+
+Se solicita:
+
+1. Que el Ayuntamiento habilite de inmediato un sistema interno de información que cumpla con las exigencias legales, incluyendo la posibilidad de realizar comunicaciones anónimas.
+2. Que se confirme su puesta en marcha en el plazo legal establecido.
+
+Se advierte:
+Que, en caso de no habilitarse este cauce, se procederá a trasladar esta situación a la Autoridad Independiente de Protección del Informante (A.A.I.), utilizando su canal externo y señalando el incumplimiento del Ayuntamiento respecto de la Ley 2/2023.
+
+Se comunica además la siguiente irregularidad concreta:
+En relación con el servicio de suministro de agua en la urbanización Calypo-Fado, no consta la existencia de un contrato administrativo vigente que regule la prestación de dicho servicio.
+Esta situación vulnera la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público, que exige que todo servicio público prestado por terceros se formalice mediante contrato y se adjudique mediante licitación pública.
+
+Por tanto, se requiere que el Ayuntamiento:
+Acredite si existe contrato en vigor para la gestión del suministro de agua.
+En caso negativo, proceda de inmediato a la licitación pública y a la contratación de un proveedor conforme a derecho, garantizando la transparencia y legalidad en la prestación del servicio.
+
+Se deja constancia de que, de no existir respuesta, la presente comunicación será puesta en conocimiento de la Autoridad Independiente de Protección del Informante (A.A.I.) a través de su canal externo.
+```
+
+1. ¿A qué mail enviar la comunicación?
+
+El Ayuntamiento de Casarrubios del Monte no tiene canal interno de información habilitado (y eso es justo lo que estáis denunciando).
+Así que la comunicación anónima la podéis mandar a: secretaria@aytocasarrubios.es (correo oficial de Secretaría, responsable de la legalidad y contratos).
+En copia (CC) podéis poner alcaldia@aytocasarrubios.es para que quede constancia en Alcaldía.
+
+👉 Si más adelante ponen un canal oficial en su web, habrá que usarlo, pero de momento vais a su buzón institucional.
+2. ¿Desde qué mail enviarlo?
+Como puede ser anónimo, no uséis el correo personal de nadie.
+
+Lo que podéis hacer:
+1. Crear un correo nuevo en Gmail, Outlook o ProtonMail.
+2. No pongáis datos personales al registrar la cuent…
